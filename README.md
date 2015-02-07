@@ -2,4 +2,4 @@
 Reverse Polish Notation Calculator
 
 # Compiling:
-g++ rpnc.cpp
+g++ rpnc.cpp -std=c++11
